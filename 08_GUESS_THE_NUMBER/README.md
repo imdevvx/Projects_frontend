@@ -16,5 +16,5 @@ A fun and interactive JavaScript game where players try to guess the hidden numb
 
 ## Author
 
-DEV
+DEV <br>
 Created by [imdevvx](https://github.com/imdevvx)

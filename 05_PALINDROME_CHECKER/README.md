@@ -4,17 +4,18 @@ A simple and interactive JavaScript project that allows users to check whether a
 
 ## Features
 
-- Check if a word, phrase, or number is a palindrome.
-- Instant validation as the user types.
-- Clean, minimal, and user-friendly interface.
-- Built using pure JavaScript, HTML, and CSS — no libraries needed.
+* Check if a word, phrase, or number is a palindrome.
+* Instant validation as the user types.
+* Clean, minimal, and user-friendly interface.
+* Built using pure JavaScript, HTML, and CSS — no libraries needed.
 
 ## Live Demo
 
-* **Try this project live:** [Palindrome checker Demo](https://syncdecodes.github.io/JS_PROJECTS/05_PALINDROME_CHECKER/)
+* **Try this project live:** [Palindrome checker Demo](https://imdevvx.github.io/Projects_frontend/05_PALINDROME_CHECKER/)
 
-* **Explore all my projects:** [JS Projects Collection](https://syncdecodes.github.io/JS_PROJECTS/)
+* **Explore all my projects:** [JS Projects Collection](https://imdevvx.github.io/Projects_frontend/)
 
 ## Author
+
 DEV
-Created by [syncdecodes](https://github.com/syncdecodes)
+Created by [imdevvx](https://github.com/imdevvx)

@@ -12,13 +12,13 @@ It also includes a **"Get Table Up To"** feature to generate tables up to a spec
 
 ## Live Demo
 
-* **Try this project live:** [Tables Generator Demo](https://syncdecodes.github.io/JS_PROJECTS/01_TABLES/)
+* **Try this project live:** [Tables Generator Demo](https://syncdecodes.github.io/Projects_frontend/01_TABLES/)
 
-* **Explore all my projects:** [JS Projects Collection](https://syncdecodes.github.io/JS_PROJECTS/)
+* **Explore all my projects:** [JS Projects Collection](https://syncdecodes.github.io/Projects_frontend/)
 
 ## Author
 DEV
 <br>
-Created by [syncdecodes](https://github.com/syncdecodes)
+Created by [syncdecodes](https://github.com/imdevvx/)
 
 

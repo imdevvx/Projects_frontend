@@ -16,5 +16,5 @@ A robust and user-friendly JavaScript project that validates form inputs in real
 
 ## Author
 
-DEV
+DEV <br>
 Created by [imdevvx](https://github.com/imdevvx)

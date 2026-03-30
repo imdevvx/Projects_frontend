@@ -17,8 +17,7 @@ It also includes a **"Get Table Up To"** feature to generate tables up to a spec
 * **Explore all my projects:** [JS Projects Collection](https://imdevvx.github.io/Projects_frontend/)
 
 ## Author
-DEV
-<br>
+DEV <br>
 Created by [imdevvx](https://github.com/imdevvx/)
 
 

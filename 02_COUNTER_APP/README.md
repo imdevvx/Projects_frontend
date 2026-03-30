@@ -11,9 +11,9 @@ An interactive and lightweight web application built with pure JavaScript that p
 
 ## Live Demo
 
-* **Try this project live:** [Counter app](https://imdevvx.github.io/JS_PROJECTS/02_COUNTER_APP/)
+* **Try this project live:** [Counter app](https://imdevvx.github.io/Projects_frontend/02_COUNTER_APP/)
 
-* **Explore all my projects:** [JS Projects Collection](https://imdevvx.github.io/JS_PROJECTS/)
+* **Explore all my projects:** [JS Projects Collection](https://imdevvx.github.io/Projects_frontend/)
 
 ## Author
 

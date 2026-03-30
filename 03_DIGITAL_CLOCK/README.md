@@ -15,5 +15,4 @@ A sleek and functional JavaScript project that displays the current time in 12-h
 
 ## Author
 DEV
-
 Created by [imdevvx](https://github.com/imdevvx)

@@ -17,5 +17,5 @@ A simple yet powerful JavaScript project that allows users to start, pause, and 
 
 ## Author
 
-DEV
+DEV <br>
 Created by [imdevvx](https://github.com/imdevvx)

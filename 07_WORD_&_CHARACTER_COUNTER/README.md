@@ -17,5 +17,5 @@ A lightweight and efficient JavaScript project that instantly counts words and c
 
 ## Author
 
-DEV
+DEV <br>
 Created by [imdevvx](https://github.com/imdevvx)

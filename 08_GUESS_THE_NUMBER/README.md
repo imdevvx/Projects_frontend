@@ -4,18 +4,17 @@ A fun and interactive JavaScript game where players try to guess the hidden numb
 
 ## Features
 
-- Dynamic Feedback: Tells you if your guess is too high, too low, or correct.
-
-- Randomized Numbers: Each game generates a new secret number for endless fun.
-
-- Built with Pure JavaScript, HTML, and CSS: Lightweight and dependency-free.
+* Dynamic Feedback: Tells you if your guess is too high, too low, or correct.
+* Randomized Numbers: Each game generates a new secret number for endless fun.
+* Built with Pure JavaScript, HTML, and CSS: Lightweight and dependency-free.
 
 ## Live Demo
 
-* **Try this project live:** [Tables Generator Demo](https://syncdecodes.github.io/JS_PROJECTS/08_GUESS_THE_NUMBER/)
+* **Try this project live:** [Guess The Number Game](https://imdevvx.github.io/Projects_frontend/08_GUESS_THE_NUMBER/)
 
-* **Explore all my projects:** [JS Projects Collection](https://syncdecodes.github.io/JS_PROJECTS/)
+* **Explore all my projects:** [JS Projects Collection](https://imdevvx.github.io/Projects_frontend/)
 
 ## Author
+
 DEV
-Created by [syncdecodes](https://github.com/syncdecodes)
+Created by [imdevvx](https://github.com/imdevvx)

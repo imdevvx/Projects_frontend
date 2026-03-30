@@ -4,20 +4,18 @@ A simple and efficient JavaScript project that helps users organize tasks with e
 
 ## Features
 
-- Add, Edit, and Delete Tasks: Manage your to-do items effortlessly.
-- Persistent Data: Saves tasks locally so you never lose your list on refresh.
-- Responsive Design: Works seamlessly across desktop and mobile devices.
-- Built with Pure JavaScript, HTML, and CSS: Fast, lightweight, and dependency-free.
+* Add, Edit, and Delete Tasks: Manage your to-do items effortlessly.
+* Persistent Data: Saves tasks locally so you never lose your list on refresh.
+* Responsive Design: Works seamlessly across desktop and mobile devices.
+* Built with Pure JavaScript, HTML, and CSS: Fast, lightweight, and dependency-free.
 
 ## Live Demo
 
-* **Try this project live:** [To do list](https://syncdecodes.github.io/JS_PROJECTS/PROJECT_010_TO_DO_LIST/)
+* **Try this project live:** [To-Do List App](https://imdevvx.github.io/Projects_frontend/PROJECT_010_TO_DO_LIST/)
 
-* **Explore all my projects:** [JS Projects Collection](https://syncdecodes.github.io/JS_PROJECTS/)
+* **Explore all my projects:** [JS Projects Collection](https://imdevvx.github.io/Projects_frontend/)
 
 ## Author
-DEV
 
-Created by [syncdecodes](https://github.com/syncdecodes)
-
-
+DEV <br>
+Created by [imdevvx](https://github.com/imdevvx)

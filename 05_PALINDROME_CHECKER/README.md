@@ -17,5 +17,5 @@ A simple and interactive JavaScript project that allows users to check whether a
 
 ## Author
 
-DEV
+DEV <br>
 Created by [imdevvx](https://github.com/imdevvx)

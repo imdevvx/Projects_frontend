@@ -4,17 +4,18 @@ A simple yet powerful JavaScript project that allows users to start, pause, and 
 
 ## Features
 
-- Start, Pause, and Reset Controls: Manage timing seamlessly with intuitive buttons.
-- Accurate Time Tracking: Measures minutes, seconds, and milliseconds precisely.
-- Responsive Design: Works smoothly across all devices.
-- Built with Pure JavaScript, HTML, and CSS: No external libraries used.
+* Start, Pause, and Reset Controls: Manage timing seamlessly with intuitive buttons.
+* Accurate Time Tracking: Measures minutes, seconds, and milliseconds precisely.
+* Responsive Design: Works smoothly across all devices.
+* Built with Pure JavaScript, HTML, and CSS: No external libraries used.
 
 ## Live Demo
 
-* **Try this project live:** [Tables Generator Demo](https://syncdecodes.github.io/JS_PROJECTS/06_STOPWATCH)
+* **Try this project live:** [Stopwatch Demo](https://imdevvx.github.io/Projects_frontend/06_STOPWATCH/)
 
-* **Explore all my projects:** [JS Projects Collection](https://syncdecodes.github.io/JS_PROJECTS/)
+* **Explore all my projects:** [JS Projects Collection](https://imdevvx.github.io/Projects_frontend/)
 
 ## Author
+
 DEV
-Created by [syncdecodes](https://github.com/syncdecodes)
+Created by [imdevvx](https://github.com/imdevvx)
